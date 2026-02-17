@@ -48,8 +48,7 @@ Pneumonia affects millions globally, requiring rapid and accurate diagnosis from
 * **Strong Generalization** with only 8.8% accuracy drop on unseen data
 * **Production Ready** with live web interface and RESTful API
 
-> **⚡ TL;DR:** AI detects pneumonia in pediatric chest X-rays with clinically validated performance. **[Try Live Demo](https://chest-xray-pneumonia-detection-ai-t3uj3umtauwcwpklbvycm7.streamlit.app/)** | **[Download Model](https://huggingface.co/rasoul-sahibzadah/chest-xray-pneumonia-detection)**
-
+> **⚡ TL;DR:** AI detects pneumonia in pediatric chest X-rays with clinically validated performance. **[Try Live Demo](https://chest-xray-pneumonia-detection-ai-t3uj3umtauwcwpklbvycm7.streamlit.app/)**
 ---
 
 ### **🚀 [Try PneumoScan AI Live](https://chest-xray-pneumonia-detection-ai-t3uj3umtauwcwpklbvycm7.streamlit.app/)**
