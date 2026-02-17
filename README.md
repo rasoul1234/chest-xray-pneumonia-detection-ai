@@ -52,7 +52,7 @@ Pneumonia affects millions globally, requiring rapid and accurate diagnosis from
 
 ---
 
-### **🚀 [Try PneumoScan AI Live](https://pneumoscanai.streamlit.app/)**
+### **🚀 [Try PneumoScan AI Live](https://chest-xray-pneumonia-detection-ai-t3uj3umtauwcwpklbvycm7.streamlit.app/)**
 
 **Professional Medical Interface Features:**
 * **Instant Analysis** with sub-second inference and confidence scores
