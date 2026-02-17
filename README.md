@@ -384,15 +384,6 @@ This approach is **often missing** in academic AI projects but **critical** for 
 
 ---
 
-## 🤝 **Contributing**
-
-This project welcomes contributions in:
-- **Model improvements** and optimization
-- **Multi-center validation** expansion
-- **Clinical workflow** integration
-- **Deployment** in resource-limited settings
-- **Documentation** and tutorials
-
 See [Issues](https://github.com/rasoulsahibzadah/chest-xray-pneumonia-detection-ai/issues) for current collaboration opportunities.
 
 ### **Contributing Guidelines:**
