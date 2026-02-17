@@ -1,0 +1,10 @@
+# Developer: Muhammad Rasoul Sahibzadah
+streamlit
+tensorflow
+pillow
+numpy
+fpdf2
+opencv-python-headless
+matplotlib
+pydicom
+
